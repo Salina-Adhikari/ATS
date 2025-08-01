@@ -190,3 +190,66 @@
 2025-07-31 13:20:12,886 - automationLogger - INFO - Logger initialized and writing to automation.log.
 2025-07-31 13:20:17,089 - automationLogger - INFO - Test_1_Login.test_login
 2025-07-31 13:20:17,089 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 20:32:55,059 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 20:32:57,538 - automationLogger - INFO - Test_1_Login.test_login
+2025-07-31 20:32:57,539 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 20:37:29,995 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 20:37:31,283 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 20:37:31,284 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 20:37:41,674 - automationLogger - INFO - ****Passesd*******
+2025-07-31 20:41:33,371 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 20:41:34,655 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 20:41:34,655 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 20:41:44,774 - automationLogger - INFO - ****Passesd*******
+2025-07-31 20:41:55,302 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028FFD086D50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fb768343804073c714e3ba7077ea222a/element
+2025-07-31 20:41:59,415 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028FFD086350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fb768343804073c714e3ba7077ea222a/element
+2025-07-31 20:42:03,513 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028FFD075BA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fb768343804073c714e3ba7077ea222a/element
+2025-07-31 20:47:48,428 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 20:47:49,769 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 20:47:49,769 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 20:47:59,862 - automationLogger - INFO - ****Passesd*******
+2025-07-31 20:53:39,750 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 20:53:41,037 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 20:53:41,037 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 20:53:51,769 - automationLogger - INFO - ****Passesd*******
+2025-07-31 20:54:36,629 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 20:54:37,946 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 20:54:37,947 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 20:54:48,248 - automationLogger - INFO - ****Passesd*******
+2025-07-31 20:55:25,491 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 20:55:26,745 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 20:55:26,745 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 20:55:36,928 - automationLogger - INFO - ****Passesd*******
+2025-07-31 21:05:48,488 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 21:05:50,028 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 21:05:50,028 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 21:06:31,214 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 21:06:32,587 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 21:06:32,587 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 21:06:42,880 - automationLogger - INFO - ****Passesd*******
+2025-07-31 21:10:47,135 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 21:10:48,702 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 21:10:48,703 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 21:11:26,149 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 21:11:27,726 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 21:11:27,726 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 21:11:38,301 - automationLogger - INFO - ****Passesd*******
+2025-07-31 21:14:23,673 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 21:14:24,996 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 21:14:24,997 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 21:14:35,605 - automationLogger - INFO - ****Passesd*******
+2025-07-31 21:15:04,658 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 21:15:05,994 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 21:15:05,995 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 21:15:16,359 - automationLogger - INFO - ****Passesd*******
+2025-07-31 21:17:04,478 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-07-31 21:17:05,824 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-07-31 21:17:05,824 - automationLogger - INFO - Verifying the Login Page
+2025-07-31 21:17:16,451 - automationLogger - INFO - ****Passesd*******
+2025-08-01 13:15:42,637 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-01 13:15:45,278 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-08-01 13:15:45,278 - automationLogger - INFO - Verifying the Login Page
+2025-08-01 13:16:01,576 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-01 13:16:02,838 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-08-01 13:16:02,838 - automationLogger - INFO - Verifying the Login Page
+2025-08-01 13:16:13,216 - automationLogger - INFO - ****Passesd*******

@@ -39,12 +39,16 @@ class Test_002_DDT_Login:
                     self.lp.click_admin()
                     time.sleep(4)
                     self.lp.click_logout()
+                    self.driver.back()
+
                     lst_status.append("Pass")
                 elif self.exp=="Fail":
                     self.logger.info("****Failed*******")
                     self.lp.click_admin()
                     time.sleep(4)
                     self.lp.click_logout()
+                    self.driver.back()
+
                     lst_status.append("Fail")
 
             elif act_title!=exp_title:
@@ -59,14 +63,14 @@ class Test_002_DDT_Login:
                     self.lp.click_admin()
                     time.sleep(4)
                     self.lp.click_logout()
+                    self.driver.back()
                     lst_status.append("Pass")
+        self.driver.quit()
 
         if "Fail" not in lst_status:
             self.logger.info("****Login DDT tets passed*******")
-            self.driver.close()
             assert True
         else:
             self.logger.info("****Login DDT tets failed*******")
-            self.driver.close()
             assert False
         self.logger.info("**** end of Login DDT tets passed*******")
