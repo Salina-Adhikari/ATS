@@ -253,3 +253,56 @@
 2025-08-01 13:16:02,838 - automationLogger - INFO - Test_002_DDT_Login.test_login
 2025-08-01 13:16:02,838 - automationLogger - INFO - Verifying the Login Page
 2025-08-01 13:16:13,216 - automationLogger - INFO - ****Passesd*******
+2025-08-01 13:25:25,873 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-01 13:25:27,390 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-08-01 13:25:27,390 - automationLogger - INFO - Verifying the Login Page
+2025-08-01 13:25:37,443 - automationLogger - INFO - ****Passesd*******
+2025-08-01 19:24:01,261 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-01 19:24:04,101 - automationLogger - INFO - Test_002_DDT_Login.test_login
+2025-08-01 19:24:04,101 - automationLogger - INFO - Verifying the Login Page
+2025-08-01 19:24:14,589 - automationLogger - INFO - ****Passesd*******
+2025-08-08 16:20:25,392 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 16:20:31,146 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 16:20:31,146 - automationLogger - INFO - User Management
+2025-08-08 16:22:07,031 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 16:22:09,478 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 16:22:09,478 - automationLogger - INFO - User Management
+2025-08-08 16:25:28,178 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 16:25:29,496 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 16:25:29,496 - automationLogger - INFO - User Management
+2025-08-08 16:26:55,178 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 16:26:56,520 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 16:26:56,521 - automationLogger - INFO - User Management
+2025-08-08 16:27:58,556 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 16:27:59,701 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 16:27:59,702 - automationLogger - INFO - User Management
+2025-08-08 16:48:02,091 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 16:48:03,797 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 16:48:03,798 - automationLogger - INFO - User Management
+2025-08-08 16:57:30,978 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 16:57:32,509 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 16:57:32,509 - automationLogger - INFO - User Management
+2025-08-08 16:58:11,559 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 16:58:12,844 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 16:58:12,844 - automationLogger - INFO - User Management
+2025-08-08 17:04:18,632 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 17:04:20,014 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 17:04:20,014 - automationLogger - INFO - User Management
+2025-08-08 17:05:17,209 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 17:05:18,555 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 17:05:18,555 - automationLogger - INFO - User Management
+2025-08-08 17:09:39,751 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 17:09:41,113 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 17:09:41,114 - automationLogger - INFO - User Management
+2025-08-08 17:13:58,534 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 17:14:00,013 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 17:14:00,014 - automationLogger - INFO - User Management
+2025-08-08 17:16:28,853 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 17:16:30,416 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 17:16:30,417 - automationLogger - INFO - User Management
+2025-08-08 17:22:58,083 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 17:23:00,640 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 17:23:00,641 - automationLogger - INFO - User Management
+2025-08-08 17:24:23,644 - automationLogger - INFO - Logger initialized and writing to automation.log.
+2025-08-08 17:24:24,998 - automationLogger - INFO - Test_2_UserManagement.test_usermanagement
+2025-08-08 17:24:24,999 - automationLogger - INFO - User Management
