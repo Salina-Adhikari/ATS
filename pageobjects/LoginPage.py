@@ -14,6 +14,8 @@ class LoginPage:
     # link_logout_linktext=""
     pop_login_xpath=  "//ol[@dir='ltr']//li"
     admin_button_xpath="//div[@id='profileIcon']//button//p[text()='admin@omega.com']"
+    # admin_button_xpath = "nav[class='flex flex-col md:flex-row justify-between items-start md:items-center gap-2 py-4 mb-6 w-full border-b border-gray-200']"
+
     button_logout_xpath="//button[normalize-space()='Sign out']"
 
 
